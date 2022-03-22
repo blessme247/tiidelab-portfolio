@@ -1,3 +1,7 @@
+#Preview
+![portfolio 1](https://user-images.githubusercontent.com/67491400/159462654-6533d961-2935-4e55-bad2-a0b4e180dc7f.png)
+![portfolio](https://user-images.githubusercontent.com/67491400/159462667-e4726886-3e3e-43ca-a7b2-5739eb5421a0.png)
+
 # tiidelab-portfolio
 I built my personal portfolio website with html and css 
 
