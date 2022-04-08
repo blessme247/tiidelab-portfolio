@@ -385,7 +385,7 @@ footer span {
 @media (max-width: 600px) {
   header {
     position: relative;
-    height: 88vh;
+    height: 50vh;
   }
   nav {
     align-items: center;
@@ -429,8 +429,10 @@ footer span {
   .nav-links {
     margin-top: 1.3rem;
     position: absolute;
-    top: 20px;
-    width: 100%;
+    top: 30px;
+    width: 90%;
+    left: 20px;
+    right: 20px;
   }
 
   .nav-checkbox:checked ~ .nav-links .nav-menu li {
@@ -445,7 +447,7 @@ footer span {
   .nav-checkbox:checked ~ .nav-links .nav-menu {
     background-color: black;
     opacity: 0.9;
-    height: 60vh;
+    height: 40vh;
     padding-top: 2rem;
     border-radius: 3px;
     transition: all 0.5s ease-in-out;
